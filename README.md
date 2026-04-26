@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Suraj
 
-🖥️ Software Engineer at <a href="https://www.globallogic.com/">GlobalLogic India</a><br/>
+🖥️ Software Engineer at <a href="https://www.wolterskluwer.com/en-in">Wolters Kluwer</a><br/>
 👀 I’m interested in .Net, React, Typescript, Redux, Nodejs, C#, Tailwind, Python<br/>
 💞️ I’m looking to collaborate on non-profit interesting projects<br/>
 📫 reach me on <a href="mailto:surajgole47@gmail.com.com">Email</a><br/>
